@@ -5,7 +5,7 @@ Este código tiene como objetivo enseñar a graficar funciones, sus derivadas e 
 Descripción del código:
 
 Importación de librerías:
-```python
+``` python
 pip install numpy matplotlib
 
 ```
