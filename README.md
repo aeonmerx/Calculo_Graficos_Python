@@ -1,11 +1,14 @@
-Introducción:
+**Introducción:**
 
 Este código tiene como objetivo enseñar a graficar funciones, sus derivadas e integrales utilizando la biblioteca matplotlib en Python. Es una herramienta útil para visualizar el comportamiento de funciones matemáticas y comprender sus propiedades.
 
 Descripción del código:
 
 Importación de librerías:
+```python
+pip install numpy matplotlib
 
+```
 Se importan las librerías numpy como np y matplotlib.pyplot como plt.
 Definición de la función f(x):
 
