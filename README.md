@@ -6,7 +6,9 @@ Descripción del código:
 
 Importación de librerías:
 ``` python
-pip install numpy matplotlib
+import numpy as np
+import matplotlib.pyplot as plt
+
 
 ```
 Se importan las librerías numpy como np y matplotlib.pyplot como plt.
